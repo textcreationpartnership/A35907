@@ -1,0 +1,211 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Dialogue between two Jesuits, Father Antony and Father Ignatius at Amsterdam the one coming from England and the other going thither.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35907</idno>
+            <idno type="STC">Wing D1340</idno>
+            <idno type="STC">ESTC R33448</idno>
+            <idno type="EEBO-CITATION">13336367</idno>
+            <idno type="OCLC">ocm 13336367</idno>
+            <idno type="VID">99102</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35907)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99102)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1548:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Dialogue between two Jesuits, Father Antony and Father Ignatius at Amsterdam the one coming from England and the other going thither.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing and NUC pre-1956 imprints.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Controversial literature.</term>
+               <term>Catholic Church --  Controversial literature.</term>
+               <term>Dissenters, Religious --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:99102:1" rendition="simple:additions"/>
+            <head>A DIALOGUE BETWEEN TWO JESUITS, Father <hi>ANTONY</hi> and Father <hi>IGNATIVS,</hi> AT AMSTERDAM, The one coming from <hi>ENGLAND,</hi> and the other going Thither.</head>
+            <sp>
+               <speaker>Ig.</speaker>
+               <p>VVHO's here Father <hi>Antony?</hi> I am very glad to ſee you, but why here at <hi>Amſterdam,</hi> and why in this Dreſs? I think I never ſaw you ſince the Jubilee at <hi>Rome</hi> before.</p>
+            </sp>
+            <sp>
+               <speaker>An.</speaker>
+               <p>Father <hi>Ignatius,</hi> I am glad to ſee both you and my ſelf here, in this, or any other Dreſs that a Jeſuit may wear, (and you know thoſe are a good many) for (to tell you true) it is not long ſince I thought I ſhou'd e'en have follow'd the Fate of my loſt Brethren in <hi>England,</hi> and have left the diſpoſition of Sword and Per<g ref="char:EOLhyphen"/>riwig to Signior <hi>Scaccia-Preti,</hi> Squire <hi>Finiſher,</hi> that dextrous Truſſer, and Untruſſer of our Order.</p>
+            </sp>
+            <sp>
+               <speaker>Ig.</speaker>
+               <p>Why then you came from <hi>England</hi> it ſeems, and I am juſt going thither, and ſince we are ſo happily met, if you pleaſe, we'll change appearances, I'll put on your Cavaliers, and you ſhall put on my Religious Habit, and that will ſave us both Money and trouble.</p>
+            </sp>
+            <sp>
+               <speaker>An.</speaker>
+               <p>With all my heart: Time about is fair Play, My own good Fortune attend you, but I'll aſſure you you'll meet with difficulties, though here and there you'll find a Friend too.</p>
+            </sp>
+            <sp>
+               <speaker>Ig.</speaker>
+               <p>Ay now you talk of Friends, Pray recommend me to ſome body in <hi>England,</hi> (if you know any body) that I may truſt, and take the pains to give me a brief account, in what con<g ref="char:EOLhyphen"/>dition the cauſe is there.</p>
+            </sp>
+            <sp>
+               <speaker>An.</speaker>
+               <p>That I ſhall do with all my heart Father, and in ſhort ſince the Devil put that trick of the Diſcovery of the Plot upon us, it has been our main buſineſs there, to amuſe the Kingdom with heats and Diviſions among themſelves, that we might be taken the leſs notice of; and indeed we have ſucceeded to a Miracle in't, for we have fill'd every Tap-houſe and Coffee<g ref="char:EOLhyphen"/>houſe ſo full of Wrangling and Diſpute, that the Hereticks have their hands full of one another. At one Club they Cry, an <hi>Owen,</hi> an <hi>Owen!</hi> Hark to <hi>Alſop,</hi> Hark to <hi>Alſop!</hi> And by and by <hi>Baxter</hi> has it, <hi>Baxter</hi> has it. At another Houſe they Cry nothing but, O brave Dr. <hi>Stillingfleet!</hi> God a mercy Dr. <hi>Stillingfleet!</hi> All the World can never rejoyn to this. This is unanſwerable.</p>
+               <p>And within a matter of Ten days after, you ſhall find the poor Doctor ſo All-to-be-Printed, beſpatter'd and daub'd, and with ſuch unreaſonable mercileſs Weapons, and apply'd ſo rudely, that 'twould e'en grieve any honeſt man's heart alive to ſee't. Preſently he (who you know has always ſomething to ſay for himſelf) recovers himſelf, gots upon his Feet, ſets the beſt Leg forward, and reconfutes the Enemy, and then the Church (as they call it) Cryes God Bleſs thee my Son; Now thou haſt done their buſineſs, there's an end of the Quarrel, and now ſit thee down in Peace on Gods name.</p>
+               <p>But by their fair leave we have not done with them ſo, for as long as there's a Proteſtant Diffenter (Fairchieve the Term) in <hi>England,</hi> that can Write his Name, and Pen and Ink to be had either for Love or Money, we'll find a way to ſet him to work, or we'll write for him our ſelves.</p>
+               <p>In a word both ſides are ſo very warm and vigorous, that the beſt Gameſter in the Kingdom knows not which to lay his Money on.</p>
+            </sp>
+            <sp>
+               <speaker>Ig.</speaker>
+               <p>Why I thought there had been no ſuch equality in the caſe, becauſe you know their Church (forſooth) is eſtabliſh'd by Law, which does on the contrary ſeverely animadvert againſt all other Non-conforming Sects whatſoever. And I always thought there was ſome diſproportion in their knowledge, and learning beſides.</p>
+            </sp>
+            <sp>
+               <speaker>An.</speaker>
+               <p>All this is very true Father, but you muſt know that in <hi>England</hi> at this day we have found the ſecret to ballance Senſe with Noiſe, and Face, and Action, and as the caſe now ſtands its hard to know who has the better end of the Staff.</p>
+               <pb n="2" facs="tcp:99102:2" rendition="simple:additions"/>
+               <p> The Proteſtant Diſſenters are daintily grown up on my word, and I hope will hold the Church-men tack. Nay, I'll aſſure you that in the time of the late Parliament, there was an honeſt poor Fellow that had like to have been pull'd in pieces only for being overheard to name the word Fanatick.</p>
+            </sp>
+            <sp>
+               <speaker>Ig.</speaker>
+               <p>But what if they ſhould begin to falter a little, (as you know they have always the worſt of it, except it be at downright knocks) what methods ſhould we uſe to take their Parts? What way ſhould we find to inſinuate our ſelves amongſt them? Do you think they would accept of our help though we ſhould offer it?</p>
+            </sp>
+            <sp>
+               <speaker>An.</speaker>
+               <p>Never trouble your ſelf about that, for there's a Perſon in <hi>England</hi> of a very ſingular Character and Employment, that has Sworn to ſuch a Correſpondence between us and the Field Conventiclers in <hi>Scotland;</hi> and why ſhould we deſpair of the ſame practice in <hi>England.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ig.</speaker>
+               <p>Methinks I ſhould not much care for their converſation, except it were in ſome very unſuſpected, and very advantageous addreſs; but for a lift with my Pen, I ſhould be always at their Service, for I hear them ſay, the Preſs is as open as the Stews, that the Printers (a many of them) have no more integrity or Modeſty, than Bawds and Whores, and in one word that many of the Authors have no more Wit than Cullies, and no more Conſcience or hon<g ref="char:EOLhyphen"/>eſty than Mountebanks.</p>
+            </sp>
+            <sp>
+               <speaker>An.</speaker>
+               <p>Soft and fair good Father <hi>Ignatius,</hi> this is no juſt conjuncture for downright Satyr. Soft Phraſe, and Oyly words are the mode at preſent, alwayes provided they be ambiguous, and will admit of one evil meaning at leaſt, for ſuch enter eaſily, and ſpread inſenſibly, they have a ſtrange influence upon the People, and they (you know) have the moſt hands.</p>
+            </sp>
+            <sp>
+               <speaker>Ig.</speaker>
+               <p>But not to interrupt you Father <hi>Antony,</hi> I was going to ask you, whether we might not now and then put a Miracle upon them, is that trick quite left off or not? Will they be<g ref="char:EOLhyphen"/>lieve nothing that's new and extraordinary?</p>
+            </sp>
+            <sp>
+               <speaker>An.</speaker>
+               <p>Hang 'em, the men of ſenſe believe nothing but what's reaſonable and manlike, but the Rabble they'll believe what you will. And ſo the influence, and Prediction of the Comet, the Maid of <hi>Hatfield,</hi> the death of the Lyons in the Tower, and the like have been made uſe of by ſome of our Friends amongſt the common ſort of People, with admirable ſucceſs.</p>
+            </sp>
+            <sp>
+               <speaker>Ig.</speaker>
+               <p>I am well enough ſatisfied that ſuch things have a wonderful prevalence among the Vulgar, and though every man that has but an Egg-ſhell full of Brain explode them at firſt ſight, yet for all that, I hear they do their work with them among the People, who believe them as certainly as they do the Penteteuch. Theſe are <hi>Piae Fraudes,</hi> honeſt Cheats, that bring men to Heaven through a Back-door, and draw them into the right way by unrighteous means. But I muſt not do the Caſuiſts before you.</p>
+               <p>And now Pray tell me where I might find a right well-meaning Printer, for you know I am a little inclin'd to thinking, and it may be I may ſometimes take the humour, (as occaſion offers) to ſay ſomething to more People than I am acquainted with, and then you know I ſhall want a meet help.</p>
+            </sp>
+            <sp>
+               <speaker>An.</speaker>
+               <p>Every body can tell you that, there's one <hi>Harris,</hi> but eſpecially there's one <hi>Frank Smith</hi> I'de recommend to you, the fitteſt Fellow alive for your buſineſs. On my Conſcience, that Fellow has deſerv'd better of the Catholick cauſe, then either <hi>Coleman,</hi> or <hi>Stafford.</hi> I need not tell you where he lives, there's ſcarce a man of Twenty year old in <hi>London,</hi> but will in<g ref="char:EOLhyphen"/>form you either for good, or ill will.</p>
+               <p>It was but t'other day he gave their Mighty <hi>Stillingfleet</hi> ſuch a Joak, that he made all the Town ſnear again, and by the round World, I think 'twas one of the beſt Arguments he could have made uſe of.</p>
+            </sp>
+            <sp>
+               <speaker>Ig.</speaker>
+               <p>Pray Father what was that? For I hate the very name of that Goliah <hi>Stillingfleet,</hi> he has made ſuch an appearance.</p>
+            </sp>
+            <sp>
+               <speaker>An.</speaker>
+               <p>Why I'll tell you what it was, he told the World in Print, that if they wanted Ar<g ref="char:EOLhyphen"/>guments againſt the Church of <hi>Rome,</hi> they might have them Dog-cheap at ſuch a place, of Dr. <hi>Stillingfleet</hi>'s Writings, for there was I know not how many Coppies lay upon the Prin<g ref="char:EOLhyphen"/>ters hands.</p>
+            </sp>
+            <sp>
+               <speaker>Ig.</speaker>
+               <p>There he nick'd him indeed, and to ſpeak the truth, that ſame <hi>Stillingfleet</hi> has ſuch a kind of a head, that without Jears and Affronts can paſs for Reaſon, we ſhall never convince him. However we have to thank <hi>Smith</hi> for his good will. I have ſeen a many of <hi>Stillingfleet</hi>'s Writings.</p>
+            </sp>
+            <sp>
+               <speaker>An.</speaker>
+               <p>And ſo have I too more than ever I had a mind to have ſeen, and if we had him I know where, I would not be in his Cloaths for more than I'll tell you. And now we talk of Cloaths, Pray let's ſtep into the long Cellar here and make the change we talk of, for I am ſick of the Cavalier, I am weary both of the burden and danger of wearing a Sword, and ſo will you be too, if any of the Kings Evidences ſhould chance to know you.</p>
+            </sp>
+            <sp>
+               <speaker>Ig.</speaker>
+               <p>Well happy man catch a Mackerel, come what will come, I am reſolv'd, and when I have once ty'd my ſelf to that cold Iron, I ſhall think my ſelf bound not only in Religion, but in honour, to live and dye an unalterable Median Perſian Roman Catholick.</p>
+            </sp>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
